@@ -1,4 +1,4 @@
-### Oii! Eu sou o Francisco Gabriel 
+### Oii! Eu sou o Francisco Gabriel.
 
 <div align="center">
   <a href="https://github.com/Franciscof11">
