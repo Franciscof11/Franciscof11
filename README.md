@@ -1,13 +1,13 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/franciscossg/"><i>Francisco Gabriel</i></a> 😃️</h1>
-  <p align="center">Sou um dev em formação para FullStack focado em Ruby com o framework Ruby on Rails.
-  </a><br>
+  <h3 align="center">Sou um dev em formação para FullStack focado em Ruby com o framework Ruby on Rails.</h3>
+  <h3 align="center">Acesse meu portifólio: https://franciscof11.github.io/portif-lio/ </h3>
 </div>
 
 <div align="center">
   <a href="https://github.com/Franciscof11">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Franciscof11&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&theme=gotham&hide_border=false&&layout=compact"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Franciscof11&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&theme=gotham&hide_border=false&&layout=compact"/>
 </div>
 
 <div align="center" valign="top"><br>
