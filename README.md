@@ -26,6 +26,9 @@
 <!--   <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+
+   
 </div><br>
 
 
