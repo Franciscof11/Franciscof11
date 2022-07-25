@@ -6,7 +6,7 @@
   <a href ="mailto:franciscogabrielf11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franciscossg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </a>
 </div>
-  <h3 align="center">Sou um dev em formação para FullStack.</h3>
+  <h3 align="center">Sou um dev em formação para FullStack e Mobile<h3>
   <h3 align="center">Acesse meu portifólio: https://franciscof11.github.io/PortifolioUp/ </h3>
 </div>
 
@@ -18,12 +18,19 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/673/PNG/512/github_icon-icons.com_60477.png">
   <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
+  
+  
 
    
 </div><br>
