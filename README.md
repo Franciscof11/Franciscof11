@@ -6,7 +6,7 @@
   <a href ="mailto:franciscogabrielf11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franciscossg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </a>
 </div>
-  <h3 align="center">Sou um dev em formação para FullStack e Mobile<h3>
+  <h3 align="center">Sou um dev em formação em FullStack e Mobile<h3>
   <h3 align="center">Acesse meu portifólio: https://franciscof11.github.io/PortifolioUp/ </h3>
 </div>
 
