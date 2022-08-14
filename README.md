@@ -19,13 +19,13 @@
 
 <div align="center" valign="top"><br>
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-
   <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
   <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
+  <img align="center" height="70" width="70" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/go_icon_130928.png">
 </div><br>
 
 
