@@ -14,7 +14,7 @@
 <div align="center">
   <a href="https://github.com/Franciscof11">
   <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=Franciscof11&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS&theme=gotham&langs_count=10&card_width=380"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,CSS,shell,makefile,starlark,c%2B%2B&theme=gotham&langs_count=10&card_width=380"/>
 </div>
 
 <div align="center" valign="top"><br>
