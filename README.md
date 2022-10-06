@@ -9,7 +9,7 @@
 
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
 
-<img height="350" width="350" align="right" src="https://o.remove.bg/downloads/1ef6c5b7-72a7-4908-ade9-51ce38a5d713/programming-concept-illustration_114360-1351-removebg-preview.png"/>
+<img height="400" width="400" align="right" src="https://i.imgur.com/yIxQ3oh.png"/>
 
 <p>
 
