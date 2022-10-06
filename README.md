@@ -25,7 +25,7 @@
 - Flutter , React.Js , Ruby on Rails , React Native.
   <div align="left"><br>
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
-  <img align="center" height="60" width="60" src="https://i.imgur.com/wK3y9wi.png">
+  <img align="center" height="70" width="60" src="https://i.imgur.com/wK3y9wi.png">
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
@@ -34,8 +34,6 @@
   </div><br>
 
 <div align="left">
-  <a href="https://github.com/Franciscof11">
-  <img height="150em" src = "https://github-readme-stats.vercel.app/api?username=Franciscof11&count_private=true&theme=gotham&show_icons=true&include_all_commits=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,makefile,Cmake,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380"/>
 </div>
 
