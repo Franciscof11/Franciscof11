@@ -24,13 +24,13 @@
 - Technologies : 
 - Flutter , React.Js , Ruby on Rails , React Native.
   <div align="left"><br>
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
-  <img align="center" height="60" width="50" src="https://i.imgur.com/wK3y9wi.png">
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
+  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+  <img align="center" height="60" width="60" src="https://i.imgur.com/wK3y9wi.png">
+  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
+  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
+  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
+  <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
   </div><br>
 
 <div align="left">
