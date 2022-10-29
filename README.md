@@ -22,7 +22,7 @@
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
   
 - Technologies : 
-- Flutter , React.Js , Ruby on Rails , React Native.
+- Flutter, React Native, Ruby on Rails, React.Js.
   <div align"center"><br>
   <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
   <img align="center" height="70" width="60" src="https://i.imgur.com/wK3y9wi.png">
