@@ -13,7 +13,7 @@
 
 <p>
 
-- 👨‍💻 Mobile and FullStack Developer.
+- 👨‍💻 Mobile Developer.
  
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
 
@@ -22,18 +22,15 @@
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
   
 - Technologies : 
-- Flutter, React Native, Ruby on Rails, React.Js.
-  <div align"center"><br>
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
-  <img align="center" height="70" width="60" src="https://i.imgur.com/wK3y9wi.png">
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_plain_wordmark_logo_icon_146362.png">
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rails_icon_130210.png">
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png"
-  <img align="center" height="60" width="60" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png">
-  </div><br>
+- Flutter, React Native, React.Js.
 
 <div align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Ruby,,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380"/>
 </div>
+
+  <div align"center"><br>
+  <img align="center" height="80" width="80" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+  <img align="center" height="80" width="70" src="https://i.imgur.com/wK3y9wi.png">
+  </div><br>
 
 
