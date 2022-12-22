@@ -10,7 +10,6 @@
 <p>
 
 - 👨‍💻 Mobile Developer.
- 
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
 - 🔥 I like to play basketball and follow the nba a lot🏀.
 
