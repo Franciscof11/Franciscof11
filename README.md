@@ -16,7 +16,6 @@
 - 🔥 I like to play basketball and follow the nba a lot🏀.
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
-  
 - Technologies : 
 - Flutter, React Native.
   <div align"center"><br>
