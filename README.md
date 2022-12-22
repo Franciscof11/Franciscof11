@@ -10,7 +10,6 @@
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
 
 <img height="350" width="350" align="right" src="https://i.imgur.com/yIxQ3oh.png"/>
-
 <p>
 
 - 👨‍💻 Mobile Developer.
