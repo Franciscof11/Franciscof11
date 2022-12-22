@@ -6,7 +6,6 @@
     <a href ="mailto:franciscogabrielf11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
-
 <img height="350" width="350" align="right" src="https://i.imgur.com/yIxQ3oh.png"/>
 <p>
 
