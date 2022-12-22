@@ -29,5 +29,3 @@
 <div align="left">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380"/>
 </div>
-
-
