@@ -24,7 +24,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
   
   <img align='left' src="https://data.whicdn.com/images/237176020/original.gif" width="250">
   
