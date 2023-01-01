@@ -9,7 +9,7 @@
 
 <p>
 
-- 👨‍💻 FullStack Developer.
+- 👨‍💻 Back End and Mobile Developer.
   
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
