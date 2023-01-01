@@ -16,14 +16,12 @@
 - 🔥 I like to play basketball and follow the nba a lot🏀.
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
-- Technologies : Flutter, React Native, Ruby on Rails, React Js.
+- Technologies : Flutter, Ruby on Rails.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Typescript,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=2&card_width=380&hide_border=true&bg_color=0D1117"/>
   
   <img align='left' src="https://i.pinimg.com/originals/ce/a5/1a/cea51af6cd6ee85daa4389a7b6371efe.gif" width="200">
   
