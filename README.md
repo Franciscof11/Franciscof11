@@ -16,7 +16,7 @@
 - 🔥 I like to play basketball and follow the nba a lot🏀.
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
-- Technologies : Flutter, React Native, Ruby on Rails, React Js, Next js.
+- Technologies : Flutter, React Native, Ruby on Rails, React Js.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
