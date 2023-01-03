@@ -11,15 +11,16 @@
 
 - 👨‍💻 Back End and Mobile Developer.
   
+- Technologies : Flutter, Java.
+
+<img  height="75" width="75" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
+<img  height="75" width="75" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
 - 🔥 I like to play basketball and follow the nba a lot🏀.
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
-- Technologies : Flutter, Ruby on Rails.
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Typescript,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=2&card_width=380&hide_border=true&bg_color=0D1117"/>
   
