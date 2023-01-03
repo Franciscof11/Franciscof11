@@ -19,7 +19,7 @@
 - Technologies : Flutter, Ruby on Rails.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Typescript,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=2&card_width=380&hide_border=true&bg_color=0D1117"/>
   
