@@ -9,12 +9,9 @@
 
 <p>
 
-- 👨‍💻 Back End and Mobile Developer.
+- 👨‍💻 Mobile Developer.
   
-- Technologies : Flutter, Java.
-
-<img  height="75" width="75" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png">
-<img  height="75" width="75" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+- Technologies : Flutter.
 
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
@@ -22,7 +19,7 @@
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,java,java,makefile,Cmake,C,Swift,Objective-C,Typescript,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=2&card_width=380&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Typescript,Javascript,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
   
   <img align='left' src="https://i.pinimg.com/originals/ce/a5/1a/cea51af6cd6ee85daa4389a7b6371efe.gif" width="200">
   
