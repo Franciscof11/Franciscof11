@@ -9,7 +9,7 @@
 
 <p>
 
-- 👨‍💻 Mobile Developer.
+- 👨‍💻 Mobile and Back-End Developer.
   
 - Technologies : Flutter.
 
