@@ -9,7 +9,7 @@
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
 <p>
 
-- 👨‍💻 Mobile and Back-End Developer.
+- 👨‍💻 Mobile Developer.
   
 - Technologies : Flutter.
 
