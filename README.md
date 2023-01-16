@@ -19,7 +19,7 @@
 
 - 🖥 Access my portfolio : https://franciscof11.github.io/PortifolioUp/.
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Typescript,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
+  <img height="170em" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Franciscof11&layout=compact&&hide=SCSS,HTML,CSS,shell,makefile,Cmake,C,Objective-C,Typescript,Javascript,Ruby,starlark,Objective-C%2B%2B,c%2B%2B&theme=gotham&langs_count=4&card_width=380&hide_border=true&bg_color=0D1117"/>
   
   <img align='left' src="https://i.pinimg.com/originals/ce/a5/1a/cea51af6cd6ee85daa4389a7b6371efe.gif" width="200">
   
