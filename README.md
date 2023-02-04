@@ -9,7 +9,6 @@
 <p>
   
 - 👨‍💻 Mobile Developer.
-  
 - Technologies : Flutter.
  
   
