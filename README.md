@@ -10,7 +10,7 @@
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
 <p>
 - 👨‍💻 Mobile Developer.
-- Technologies : Flutter , react Native , React Js
+- Technologies : Flutter , React Native , React Js
  
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
