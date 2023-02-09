@@ -14,7 +14,6 @@
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
 - 🔥 I like to play basketball and follow the nba a lot🏀.
-
   
 - 🖥 Access my portfolio : https://francisco-dev.netlify.app.
 
@@ -22,3 +21,4 @@
  
   <img align='left' src="https://i.pinimg.com/originals/ce/a5/1a/cea51af6cd6ee85daa4389a7b6371efe.gif" width="200">
 </div>
+
