@@ -12,7 +12,7 @@
   
 - 👨‍💻 Full Stack Developer.
   
-- Technologies : Flutter , React Native , React Js
+- Technologies : Flutter , React Native , React Js.
   
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
