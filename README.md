@@ -12,7 +12,7 @@
   
 - 👨‍💻 Mobile Developer.
   
-- Technologies : Flutter , Dart , React Native , Typescript . 
+- Technologies : Flutter , Dart .
   
 - 💬 Ask me about everything, I'm not sure I'll know but I'll try.
   
