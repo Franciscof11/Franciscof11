@@ -25,12 +25,3 @@
   <img align='left' src="https://i.pinimg.com/originals/ce/a5/1a/cea51af6cd6ee85daa4389a7b6371efe.gif" width="200">
 </div>
   
-
-
-
-
-
-
-
-
-
