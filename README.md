@@ -10,7 +10,7 @@
 <h3>🤙🏼What's up? Welcome to my profile.</h3>
 <p>
   
-- 👨‍💻 Mobile Developer.
+- 👨‍💻 Mobile Software Engineer.
   
 - 💻 Technologies : Flutter , Dart , Android, iOS , Swift, Kotlin.
   
